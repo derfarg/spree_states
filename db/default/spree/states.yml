@@ -1,0 +1,97 @@
+---
+states_001:
+  name: Artigas
+  country_id: "215"
+  id: "999999001"
+  abbr: AR
+states_002:
+  name: Canelones
+  country_id: "215"
+  id: "999999002"
+  abbr: CA
+states_003:
+  name: Cerro Lago
+  country_id: "215"
+  id: "999999003"
+  abbr: CL
+states_004:
+  name: Colonia
+  country_id: "215"
+  id: "999999004"
+  abbr: CO
+states_005:
+  name: Durazno
+  country_id: "215"
+  id: "999999005"
+  abbr: DU
+states_006:
+  name: Flores
+  country_id: "215"
+  id: "999999006"
+  abbr: FL
+states_007:
+  name: Florida
+  country_id: "215"
+  id: "999999007"
+  abbr: FA
+states_008:
+  name: Lavalleja
+  country_id: "215"
+  id: "999999008"
+  abbr: LA
+states_009:
+  name: Maldonado
+  country_id: "215"
+  id: "999999009"
+  abbr: MA
+states_010:
+  name: Paysandú
+  country_id: "215"
+  id: "999999010"
+  abbr: PA
+states_011:
+  name: Río Negro
+  country_id: "215"
+  id: "999999011"
+  abbr: RN
+states_012:
+  name: Rivera
+  country_id: "215"
+  id: "999999012"
+  abbr: RI
+states_013:
+  name: Rocha
+  country_id: "215"
+  id: "999999013"
+  abbr: RO
+states_014:
+  name: Salto
+  country_id: "215"
+  id: "999999014"
+  abbr: SA
+states_015:
+  name: San José
+  country_id: "215"
+  id: "999999015"
+  abbr: SJ
+states_016:
+  name: Soriano
+  country_id: "215"
+  id: "999999016"
+  abbr: SO
+states_017:
+  name: Tacuarembó
+  country_id: "215"
+  id: "999999017"
+  abbr: TC
+states_018:
+  name: Treinta y Tres
+  country_id: "215"
+  id: "999999018"
+  abbr: TT
+states_019:
+  name: Montevideo
+  country_id: "215"
+  id: "999999019"
+  abbr: MV
+
